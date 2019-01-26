@@ -50,3 +50,12 @@
     color: red;
   }
 </style>
+<style> p {font-family: monospace;}
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-size: 16px;
+  }
+</style>
