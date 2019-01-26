@@ -44,3 +44,9 @@
 <h2 class="red-text">CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
+<style>
+  p {font-size: 16px;}
+  .red-text {
+    color: red;
+  }
+</style>
